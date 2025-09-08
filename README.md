@@ -1,0 +1,2 @@
+# mxHero_google_drive_anyonewithlink_alert
+[企業向け] mxHeroのメールエイジェントを使用する場合、添付ファイルが公開状態になるため、それをモニタリングするスクリプト
